@@ -7,3 +7,4 @@ site/
 out/
 .DS_Store
 .vscode/
+venv/
